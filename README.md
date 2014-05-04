@@ -16,12 +16,12 @@ with me. Any help and pointers are very appreciated.
 I might put up the file specifications later. It is a messed up format.
 
 Requirements
-============
+------------
 
 DASM and c1541 (available with Vice).
 
 Other work
-==========
+----------
 
 I want to make some kind of APF editor, maybe as a GIMP plugin, but I haven't
 got the time. Sadface.
